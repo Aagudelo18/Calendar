@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.13/index.global.min.js'></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <title>Full Calendar</title>
+</head>
+<body>
+    <div style="display: flex; justify-content: flex-start; align-items: center;">
+        <select id="instructorSelect" style="margin-left: 180px; margin-top: 15px; padding: 10px 20px;font-size:16px;border-radius: 10px;border: 1px solid #ccc;outline: none;background-color: #f9f9f9;box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);transition: background-color 0.3s ease;">
+            <option value="Daniel Benavides">Daniel Benavides</option>
+            <option value="Doris Elena Monsalve">Doris Elena Monsalve</option>
+            <option value="Yeison Barrios">Yeison Barrios</option>
+        </select>
+        <i style="margin-left: 10px;margin-top: 15px;font-size: 24px;color: #888;cursor: pointer;" class="fas fa-search icon"></i>
+    </div>
+
+    <button id="agendarButton" style="margin-left: 215px; margin-top: 30px;padding: 10px 30px;font-size:16px;border-radius: 10px;background-color: #84b6f4;" >Agendar</button>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Agendar Evento</h2>
+            <form id="eventForm">
+                <div class="form-group">
+                    <label for="ficha">Ficha:</label>
+                    <input type="text" id="ficha" name="ficha" required>
+                </div>
+                <div class="form-group">
+                    <label for="palabraClave">Palabra Clave:</label>
+                    <input type="text" id="palabraClave" name="palabraClave" required>
+                </div>
+                <div class="form-group">
+                    <label for="sede">Sede:</label>
+                    <input type="text" id="sede" name="sede" required>
+                </div>
+                <div class="form-group">
+                    <label for="ambiente">Ambiente:</label>
+                    <input type="text" id="ambiente" name="ambiente" required>
+                </div>
+                <div class="form-group">
+                    <label for="fechaInicio">Fecha y Hora de Inicio:</label>
+                    <input type="datetime-local" id="fechaInicio" name="fechaInicio" required>
+                </div>
+                <div class="form-group">
+                    <label for="fechaFin">Fecha y Hora de Fin:</label>
+                    <input type="datetime-local" id="fechaFin" name="fechaFin" required>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Agendar">
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div style="max-width: 900px; margin: auto;  margin-top: 20px; position: relative; z-index: 0;" id='calendar'></div>
+
+    <script src="./calendar.js"></script>
+    <script src="./modal.js"></script>
+</body>
+</html>

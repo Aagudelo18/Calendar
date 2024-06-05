@@ -1,0 +1,184 @@
+{
+    "events": [
+      {
+        "ficha": "2559206",
+        "palabraClave": "Bases de datos",
+        "instructor": "Doris Monsalve",
+        "sede": "Buenos Aires",
+        "ambiente": "506",
+        "fechayhorainicio": "2024-06-15T09:00:00",
+        "fechayhorafin": "2024-06-15T18:00:00"
+      },
+      {
+        "ficha": "2559206",
+        "palabraClave": "Desarrollo de aplicaciones móviles",
+        "instructor": "Carlos Pérez",
+        "sede": "Medellín",
+        "ambiente": "304",
+        "fechayhorainicio": "2024-06-20T10:30:00",
+        "fechayhorafin": "2024-06-20T16:30:00"
+      },
+      {
+        "ficha": "2559207",
+        "palabraClave": "Emprendimiento local",
+        "instructor": "Ana Gómez",
+        "sede": "Cali",
+        "ambiente": "101",
+        "fechayhorainicio": "2024-07-10T11:00:00",
+        "fechayhorafin": "2024-07-10T19:00:00"
+      },
+      {
+        "ficha": "2559208",
+        "palabraClave": "Marketing digital",
+        "instructor": "Luis Martínez",
+        "sede": "Bogotá",
+        "ambiente": "202",
+        "fechayhorainicio": "2024-07-09T10:00:00",
+        "fechayhorafin": "2024-07-09T16:00:00"
+      },
+      {
+        "ficha": "2559209",
+        "palabraClave": "Tecnología e innovación",
+        "instructor": "Claudia Ramírez",
+        "sede": "Cartagena",
+        "ambiente": "505",
+        "fechayhorainicio": "2024-09-28T08:30:00",
+        "fechayhorafin": "2024-09-28T17:30:00"
+      },
+      {
+        "ficha": "2559210",
+        "palabraClave": "Diseño gráfico avanzado",
+        "instructor": "José Fernández",
+        "sede": "Barranquilla",
+        "ambiente": "303",
+        "fechayhorainicio": "2024-07-29T11:00:00",
+        "fechayhorafin": "2024-07-29T16:00:00"
+      },
+      {
+        "ficha": "2559211",
+        "palabraClave": "Emprendedores",
+        "instructor": "María Rodríguez",
+        "sede": "Bucaramanga",
+        "ambiente": "401",
+        "fechayhorainicio": "2024-07-25T09:30:00",
+        "fechayhorafin": "2024-07-25T18:30:00"
+      },
+      {
+        "ficha": "2559212",
+        "palabraClave": "Inteligencia artificial",
+        "instructor": "Pablo Ruiz",
+        "sede": "Manizales",
+        "ambiente": "102",
+        "fechayhorainicio": "2024-08-04T14:00:00",
+        "fechayhorafin": "2024-08-04T19:00:00"
+      },
+      {
+        "ficha": "2559213",
+        "palabraClave": "Desarrollo web frontend",
+        "instructor": "Sofía López",
+        "sede": "Pereira",
+        "ambiente": "504",
+        "fechayhorainicio": "2024-08-09T10:00:00",
+        "fechayhorafin": "2024-08-09T17:00:00"
+      },
+      {
+        "ficha": "2559214",
+        "palabraClave": "Arte contemporáneo",
+        "instructor": "Juan Ramírez",
+        "sede": "Neiva",
+        "ambiente": "105",
+        "fechayhorainicio": "2024-08-16T12:00:00",
+        "fechayhorafin": "2024-08-16T20:00:00"
+      },
+      {
+        "ficha": "2559215",
+        "palabraClave": "Energías renovables",
+        "instructor": "Elena Torres",
+        "sede": "Ibagué",
+        "ambiente": "206",
+        "fechayhorainicio": "2024-08-05T09:00:00",
+        "fechayhorafin": "2024-08-05T18:00:00"
+      },
+      {
+        "ficha": "2559216",
+        "palabraClave": "Fotografía profesional",
+        "instructor": "Miguel García",
+        "sede": "Villavicencio",
+        "ambiente": "307",
+        "fechayhorainicio": "2024-08-13T11:30:00",
+        "fechayhorafin": "2024-08-13T17:30:00"
+      },
+      {
+        "ficha": "2559217",
+        "palabraClave": "Gastronomía local",
+        "instructor": "Carolina Sánchez",
+        "sede": "Santa Marta",
+        "ambiente": "108",
+        "fechayhorainicio": "2024-07-22T11:00:00",
+        "fechayhorafin": "2024-07-22T19:00:00"
+      },
+      {
+        "ficha": "2559218",
+        "palabraClave": "Ciberseguridad",
+        "instructor": "Alberto López",
+        "sede": "Cúcuta",
+        "ambiente": "403",
+        "fechayhorainicio": "2024-08-02T10:00:00",
+        "fechayhorafin": "2024-08-02T16:00:00"
+      },
+      {
+        "ficha": "2559219",
+        "palabraClave": "Escritura creativa",
+        "instructor": "Laura Medina",
+        "sede": "Pasto",
+        "ambiente": "205",
+        "fechayhorainicio": "2024-08-10T12:00:00",
+        "fechayhorafin": "2024-08-10T17:00:00"
+      },
+      {
+        "ficha": "2559220",
+        "palabraClave": "Moda y diseño",
+        "instructor": "Raúl Martínez",
+        "sede": "Armenia",
+        "ambiente": "506",
+        "fechayhorainicio": "2024-07-17T10:30:00",
+        "fechayhorafin": "2024-07-17T18:30:00"
+      },
+      {
+        "ficha": "2559221",
+        "palabraClave": "Educación y tecnología",
+        "instructor": "Gabriela Ortiz",
+        "sede": "Yopal",
+        "ambiente": "302",
+        "fechayhorainicio": "2024-07-30T09:30:00",
+        "fechayhorafin": "2024-07-30T17:30:00"
+      },
+      {
+        "ficha": "2559222",
+        "palabraClave": "Artesanías locales",
+        "instructor": "Fernando Castro",
+        "sede": "Montería",
+        "ambiente": "101",
+        "fechayhorainicio": "2024-08-12T11:00:00",
+        "fechayhorafin": "2024-08-12T19:00:00"
+      },
+      {
+        "ficha": "2559223",
+        "palabraClave": "Salud y bienestar",
+        "instructor": "Mónica Herrera",
+        "sede": "Popayán",
+        "ambiente": "204",
+        "fechayhorainicio": "2024-07-31T09:00:00",
+        "fechayhorafin": "2024-07-31T18:00:00"
+      },
+      {
+        "ficha": "2559224",
+        "palabraClave": "Cocina internacional",
+        "instructor": "Natalia Álvarez",
+        "sede": "Tunja",
+        "ambiente": "406",
+        "fechayhorainicio": "2024-08-07T11:30:00",
+        "fechayhorafin": "2024-08-07T17:30:00"
+      }
+    ]
+  }
